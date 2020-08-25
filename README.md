@@ -10,4 +10,5 @@
 | 4. Commands                                     | Done  |
 | 5. Stairs and ladders                           | Done  |
 | 6. Monsters                                     | Done  |
-| 7. Objects                                      | Doing |
+| 7. Objects                                      | Done  |
+| 8. Conduct                                      | Doing |
