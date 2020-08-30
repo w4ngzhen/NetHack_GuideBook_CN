@@ -11,4 +11,5 @@
 | 5. Stairs and ladders                           | Done  |
 | 6. Monsters                                     | Done  |
 | 7. Objects                                      | Done  |
-| 8. Conduct                                      | Doing |
+| 8. Conduct                                      | Done  |
+| 9. Options                                      | Doing |
